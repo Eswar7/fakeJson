@@ -1,0 +1,80 @@
+{
+  "certificates": [
+    {
+      "Code": "002",
+      "Name": "Cert van oorsprong L"
+    },
+    {
+      "Code": "003",
+      "Name": "2.1 Certificaat L"
+    },
+    {
+      "Code": "004",
+      "Name": "2.2 Certificaat L"
+    },
+    {
+      "Code": "005",
+      "Name": "3.1 Certificaat L"
+    },
+    {
+      "Code": "013",
+      "Name": "EC1935 Certificaat L"
+    },
+    {
+      "Code": "014",
+      "Name": "FDA Verklaring L"
+    },
+    {
+      "Code": "030",
+      "Name": "Dimensioneel L"
+    },
+    {
+      "Code": "037",
+      "Name": "ADI of TSE Verkl. L"
+    },
+    {
+      "Code": "038",
+      "Name": "USP Verklaring L"
+    },
+    {
+      "Code": "054",
+      "Name": "PPAP Verklaring L"
+    },
+    {
+      "Code": "087",
+      "Name": "Ruwheidsmeting L"
+    },
+    {
+      "Code": "601",
+      "Name": "2.1 Certificaat E"
+    },
+    {
+      "Code": "603",
+      "Name": "Cert van oorsprong E"
+    },
+    {
+      "Code": "608",
+      "Name": "Ruwheidsmeting E"
+    },
+    {
+      "Code": "609",
+      "Name": "Dimensioneel E"
+    },
+    {
+      "Code": "612",
+      "Name": "FDA Verklaring E"
+    },
+    {
+      "Code": "614",
+      "Name": "ADI of TSE Verkl. E"
+    },
+    {
+      "Code": "621",
+      "Name": "PPAP Verklaring E"
+    },
+    {
+      "Code": "641",
+      "Name": "USP Verklaring E"
+    }
+  ]
+}
